@@ -1,6 +1,5 @@
-# Express TS Starter
+# ORM with Express TS Exercise
 
-Simple express TS starter!
 
 ## How to use?
 
